@@ -26,4 +26,6 @@ git config --global credential.helper store
 
 git log --oneline
 
+git pull origin main
+
 modificacion desde github
