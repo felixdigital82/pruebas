@@ -8,7 +8,7 @@ git branch -M main
 
 git remote add origin https://github.com/felixdigital82/pruebas.git
 
-git pull origin main
+git pull(dfgdfgdfg) origin main
 
 git push origin rama_desarrollo
 git push origin main
