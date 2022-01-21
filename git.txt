@@ -1,0 +1,16 @@
+git config --global user.name "felixdigital82"
+git config --global user.email "felix@gedesprin.com"
+
+git init
+git config --global color.ui auto
+
+git branch -M main
+
+git remote add origin https://github.com/felixdigital82/pruebas.git
+
+git pull origin main
+
+git push origin rama_desarrollo
+git push origin main
+
+git rm --cached "nombre fichero" => quitar archivo de stage
