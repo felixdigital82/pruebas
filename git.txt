@@ -20,3 +20,6 @@ git add -A
 git commit -m ""
 git push origin main
 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
+
+git config --global credential.helper cache
+git config --global credential.helper store
