@@ -19,7 +19,9 @@ git rm --cached "nombre fichero" => quitar archivo de stage
 git add -A
 git commit -m ""
 git push origin main
-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
+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
 
 git config --global credential.helper cache
 git config --global credential.helper store
+
+git log --oneline
