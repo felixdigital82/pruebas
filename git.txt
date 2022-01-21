@@ -14,3 +14,9 @@ git push origin rama_desarrollo
 git push origin main
 
 git rm --cached "nombre fichero" => quitar archivo de stage
+
+
+git add -A
+git commit -m ""
+git push origin main
+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
