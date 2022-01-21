@@ -28,4 +28,4 @@ git log --oneline
 
 git pull origin main
 
-modificacion desde github
+modcion desde github
